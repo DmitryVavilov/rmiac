@@ -1,0 +1,38 @@
+button {
+    background-color: #65ccff;
+    width: 150px;
+    height: 35px;
+    color: black;
+    border-color: black;
+    margin-top: 15px;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+}
+div {
+    text-align: center;
+}
+input {
+    margin-top: 10px;
+}
+.reporting {
+    top: 700px;
+    position: relative;
+}
